@@ -1,0 +1,16 @@
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\presentacion.exe
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\presentacion.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.frmPokemon.resources
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.exe
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\dominio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\negocio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\dominio.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\bin\Debug\negocio.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion\obj\Debug\presentacion.csproj.CopyComplete

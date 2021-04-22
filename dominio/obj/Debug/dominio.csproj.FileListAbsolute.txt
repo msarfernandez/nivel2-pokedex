@@ -1,0 +1,5 @@
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\dominio\bin\Debug\dominio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\dominio\bin\Debug\dominio.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\dominio\obj\Debug\dominio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\dominio\obj\Debug\dominio.pdb

@@ -1,0 +1,9 @@
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\bin\Debug\negocio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\bin\Debug\negocio.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\bin\Debug\dominio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\bin\Debug\dominio.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\obj\Debug\negocio.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\obj\Debug\negocio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\negocio\obj\Debug\negocio.pdb

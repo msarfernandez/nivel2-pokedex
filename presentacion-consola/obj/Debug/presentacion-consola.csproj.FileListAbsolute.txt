@@ -1,0 +1,12 @@
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\bin\Debug\presentacion-consola.exe.config
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\bin\Debug\presentacion-consola.exe
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\bin\Debug\presentacion-consola.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\bin\Debug\dominio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\bin\Debug\negocio.dll
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\bin\Debug\dominio.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\bin\Debug\negocio.pdb
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\obj\Debug\presentacion-consola.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\obj\Debug\presentacion-consola.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\obj\Debug\presentacion-consola.csproj.CopyComplete
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\obj\Debug\presentacion-consola.exe
+C:\Users\Max\source\repos\net-nivel2-proyecto-final\presentacion-consola\obj\Debug\presentacion-consola.pdb
